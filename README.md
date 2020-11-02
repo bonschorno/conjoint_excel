@@ -42,7 +42,7 @@ As a final step, you have to create the links to see the embedded fields as the 
 
 ## Some final remarks
 
-Of course, this is only one of many approaches to set up conjoint analyses on Qualtrics. Noteworthy alternatives are the tool of Qualtrics itself ( however, a paid offer) or the approach, as suggested by Thomas Leeper. His approach is more sophisticated but correspondingly more elegant. His repository is linked [here](https://github.com/leeper/conjoint-example). 
+Of course, this is only one of many approaches to set up conjoint analyses on Qualtrics. Noteworthy alternatives are the tool of Qualtrics itself (a paid [offer](https://www.qualtrics.com/support/conjoint-project/getting-started-conjoints/getting-started-choice-based/getting-started-with-conjoint-projects/) however) or the approach, as suggested by Thomas Leeper. His approach is more sophisticated but correspondingly more elegant. His repository is linked [here](https://github.com/leeper/conjoint-example). 
 
 If any of the provided helper files do not work or specific steps are unclear please raise an issue directly here on GitHub!
 
